@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/run-llama/llama-parse-py/commit/b0f2e7b5c50709d8e44873a9d132e7bd7be2f7a7",
       "git:hexsha": "b0f2e7b5c50709d8e44873a9d132e7bd7be2f7a7",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v2.19.0"
     },
     {
